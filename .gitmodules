@@ -4,3 +4,6 @@
 [submodule "simgear"]
 	path = simgear
 	url = https://github.com/maksimus57/simgear.git
+[submodule "flightgear"]
+	path = flightgear
+	url = https://github.com/maksimus57/flightgear.git
